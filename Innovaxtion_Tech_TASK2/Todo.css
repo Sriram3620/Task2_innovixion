@@ -1,0 +1,85 @@
+@import url("https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap");
+
+.Todo-head{
+    font-size: 80px;
+    text-align: center;
+    font-family: "Roboto";
+    font-weight: bold;
+    margin: 15px;
+}
+.Create-task{
+    font-size: 40px;
+    font-family: "Roboto";
+    margin: 20px;
+    padding: 20px;
+    font-weight: bold;
+}
+.input{
+    margin: 30px;
+    width: 80%;
+    padding: 20px;
+    margin-right: 20px;
+    font-size: 30px;
+}
+.checked{
+    text-decoration: line-through;
+}
+.add-btn{
+    color: white;
+    background-color: #4c63b6;
+    font-family: "Roboto";
+    font-size: 18px;
+    height: 50px;
+    width: 120px;
+    border-width: 0px;
+    border-radius: 4px;
+    
+}
+.btn-con{
+    margin: 30px;
+}
+.checkBoxInput{
+    
+   width: 50px;
+   height: 40px;
+   margin-top: 22px;
+
+}
+.todoCon{
+    margin: 15px;
+    padding: 15px;
+}
+.labelCon{
+    background-color: #e6f6ff;
+    width: 50%;
+    border-style: solid;
+    border-width: 5px;
+    border-color: #096f92;
+    border-right: none;
+    border-top: none;
+    border-bottom: none;
+    border-radius: 4px;
+    margin-left: 30px;
+    padding: 10px;
+
+}
+.lableName{
+    font-family: "Roboto";
+  font-size: 30px;
+  font-weight: 400;
+  width: 82%;
+  margin: 0px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  padding-left: 20px;
+  padding-right: 20px;
+  border-radius: 5px;
+}
+
+.delIcon{
+    font-size: 30px;
+}
+.delcon{
+    padding: 20px;
+    text-align: right;
+}
